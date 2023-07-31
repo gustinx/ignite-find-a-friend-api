@@ -38,7 +38,7 @@ Desafio do Ignite onde foi proposto o desenvolvimento de uma API para adoção d
 $ git clone https://github.com/gustinx/ignite-find-a-friend-api.git
 
 # Go to project folder
-$ cd ignite-api-find-a-friend 
+$ cd ignite-find-a-friend-api
 
 # Install dependencies
 $ npm install
