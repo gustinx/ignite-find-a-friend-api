@@ -35,7 +35,7 @@ Desafio do Ignite onde foi proposto o desenvolvimento de uma API para adoção d
 
 ```bash
 # Clone Repository
-$ git clone
+$ git clone https://github.com/gustinx/ignite-find-a-friend-api.git
 
 # Go to project folder
 $ cd ignite-api-find-a-friend 
